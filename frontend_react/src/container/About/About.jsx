@@ -19,8 +19,8 @@ const About = () => {
   return (
     <>
       <h2 className="head-text">
-        Building <span>High-Performance Technology</span> <br />
-        To Scale <span>Businesses Around The World</span>
+        Wizard of <span>Bits & Bytes</span> <br />
+        Scaling <span>Businesses Around The World</span>
       </h2>
 
       <div className="app__profiles">
